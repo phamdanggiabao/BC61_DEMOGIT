@@ -1,0 +1,2 @@
+1. Khởi tạo thư mục thành dự án localrepository: git init
+2. Sử dụng lệnh để đưa các Flile và các sự thay đổi lên khu vực staging area
