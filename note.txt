@@ -17,4 +17,3 @@ có sự thay đổi hoặc thêm mới thì sử dụng git add . hoăc git -A
 11. Lệnh giúp chuyển nhánh: git checkout (tên nhánh muốn chuyển)
 12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới: git checkout -b (tên nhánh mới)
  master-devA 
-aaaaaaa
