@@ -10,3 +10,10 @@ có sự thay đổi hoặc thêm mới thì sử dụng git add . hoăc git -A
 7. Lệnh giúp clone (lấy một bản sao) một dự án từ trên git hub về máy tính: git clone url remote repo 
 8. Lệnh giúp lấy đi sự thay đổi mới nhất từ remote repo về máy tính: git pull origin tên nhánh trên remote repo
 9. File .gitignore giúp hỗ trợ trong việc có một số file hoặc thư mục không muốn đẩy lên remote repo
+
+// branch 
+
+10. Lệnh tạo nhánh mới: git branch (tên nhánh mới)
+11. Lệnh giúp chuyển nhánh: git checkout (tên nhánh muốn chuyển)
+12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới: git checkout -b (tên nhánh mới)
+ master-devA 
