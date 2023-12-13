@@ -18,3 +18,4 @@ có sự thay đổi hoặc thêm mới thì sử dụng git add . hoăc git -A
 12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới: git checkout -b (tên nhánh mới)
  master-devA 
 14. toi di ve 
+13. toi di hoc
