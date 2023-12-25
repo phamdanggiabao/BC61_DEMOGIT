@@ -27,6 +27,4 @@ có sự thay đổi hoặc thêm mới thì sử dụng git add . hoăc git -A
  vercal //
  đặt tên file index.html để hiển thị làm trang chủ, nếu đặt bất cứ tên nào khác là sẽ ko hiển thị lên dc 
  nếu nư file index.html nằm trong 1 thư mục khác thì sẽ tự
-sàasfadf
-huuuu
-ahihiahihii
+you are ready!!!
