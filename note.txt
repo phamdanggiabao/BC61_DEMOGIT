@@ -18,3 +18,14 @@ có sự thay đổi hoặc thêm mới thì sử dụng git add . hoăc git -A
 12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới: git checkout -b (tên nhánh mới)
  master-devA 
 
+ // Một số lưu ý khi merge code 
+ - Khi nhánh phụ merge code lên nhánh chính, sẽ có những lỗi xung đột phát sinh và sẽ đi chọn phương án,
+ đẩy lên remote repo
+ - Khi nhánh chính đã hoàn thành quá trình merge và fix xung đột, các nhánh phụ sẽ thực hiện quá trính merge code từ nhánh chính
+ và nhánh phụ đề lấy các thay đổi mới nhất về
+
+ vercal //
+ đặt tên file index.html để hiển thị làm trang chủ, nếu đặt bất cứ tên nào khác là sẽ ko hiển thị lên dc 
+ nếu nư file index.html nằm trong 1 thư mục khác thì sẽ tự
+sàasfadf
+huuuu
